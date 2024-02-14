@@ -1,0 +1,22 @@
+Presentation: UI & UX
+    - Pages
+    - Provider (State management)
+    - Widgets
+
+Business: Security, caches, logs, exeptions, validations
+    - entities
+    - repositories
+    - usecases
+
+Data: Internal & external data, Api
+    - datasources
+    - models
+    - repositories
+
+Steps: 
+1. Convert Template into Feature.
+2. Flow
+    - Provider (Add required params)
+    - Pages (Widgets)
+    - Datasources remote
+    - Provider uses
