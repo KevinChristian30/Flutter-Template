@@ -8,7 +8,7 @@ import 'package:flutter_template/features/template/business/entities/template_en
 import 'package:flutter_template/features/template/business/usecases/get_template.dart';
 import 'package:flutter_template/features/template/data/datasources/template_local_datasource.dart';
 import 'package:flutter_template/features/template/data/datasources/template_remote_datasource.dart';
-import 'package:flutter_template/features/template/data/repositories/template_repository.dart';
+import 'package:flutter_template/features/template/data/repositories/template_repository_impl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class TemplateProvider extends ChangeNotifier {
